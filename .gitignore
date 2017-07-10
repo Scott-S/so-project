@@ -8,6 +8,8 @@
 ._.DS_Store
 dump.rdb
 
+Vagrantfile
+
 bin/*
 
 data/
